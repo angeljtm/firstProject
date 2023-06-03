@@ -14,10 +14,26 @@ h2{
 }
 button{
     text-align: center;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-left: 45%;
+    margin-right: auto;
+    font-size: 23px;
+    background-color: grey;
 }
 h3{
     text-align: center;
 }
-a {
-    text-align: center;
+
+p, ol {
+    margin-right: 150px;
+    margin-left: 150px;
+    
+  }
+ul{
+    margin-right: 150px;
+    margin-left: 150px;
+    display: table;
+    margin: 0 auto;
+
 }
